@@ -1,0 +1,15 @@
+*.o
+*.a
+*.gch
+*.so
+*.out
+a.out
+
+.env
+secrets/
+*.key
+*.pem
+*.crt
+
+.vscode/
+.DS_Store
